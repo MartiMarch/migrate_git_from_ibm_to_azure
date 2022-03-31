@@ -16,9 +16,9 @@
 <p>You will need to fill the next values before execute the script:</p>
 <table>
   <tr>
-    <td>
+    <th>
       GL_USER
-    </td>
-  <tr>
+    </th>
+  </tr>
 </table>
 
