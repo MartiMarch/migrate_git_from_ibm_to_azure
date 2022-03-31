@@ -21,52 +21,52 @@
     </th>
   </tr>
   <tr>
-    <th>
+    <td>
       GL_USER
-    </th>
-    <th>
+    </td>
+    <td>
       IBM user
-    </th>
+    </td>
   </tr>
   <tr>
-    <th>
+    <td>
       GL_PASS      
-    </th>
-    <th>
+    </td>
+    <td>
       IBM password
-    </th>
+    </td>
   </tr>
   <tr>
-    <th>
+    <td>
       GL_URL
-    </th>
-    <th>
+    </td>
+    <td>
       Prt of API url
-    </th>
+    </td>
   </tr>
   <tr>
-    <th>
+    <td>
       GL_TYOKEN
-    </th>
-    <th>
+    </td>
+    <td>
       IBM Gitlab token
-    </th>
+    </td>
   </tr>
   <tr>
-    <th>
+    <td>
       GL_GIT_USER
-    </th>
-    <th>
+    </td>
+    <td>
       IBM Gitlab user
-    </th>
+    </td>
   </tr>
   <tr>
-    <th>
+    <td>
       GL_GIT_PASS
-    </th>
-    <th>
+    </td>
+    <td>
       IBM Gitlab password
-    </th>
+    </td>
   </tr>
 </table>
 
