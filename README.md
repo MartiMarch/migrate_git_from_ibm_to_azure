@@ -14,7 +14,6 @@
 <p align="justify">Execute the class main:</p>
 <p><strong>&ensp;&ensp;&ensp;&ensp;python3 main.py</strong></p>
 <p>You will need to fill the next values before execute the script:</p>
-<br>
 <h4>IBM Gitlab variables</h4>
 <table>
   <tr>
@@ -66,7 +65,6 @@
     </td>
   </tr>
 </table>
-<br>
 <h4>Azure Devops Git</h4>
 <table>
   <tr>
