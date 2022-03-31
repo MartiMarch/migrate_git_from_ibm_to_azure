@@ -16,7 +16,7 @@
 <p>You will need to fill the next values before execute the script:</p>
 <table>
   <tr>
-    <th nowrap="nowrap">
+    <th>
       IBM Gitlab variables
     </th>
   </tr>
@@ -69,4 +69,43 @@
     </td>
   </tr>
 </table>
-
+<br>
+<table>
+  <tr>
+    <th>
+      Azure Devops Git
+    </th>
+  </tr>
+  <tr>
+    <td>
+      AZ_TOKEN
+    </td>
+    <td>
+      Git token
+    </td>
+  </tr>
+  <tr>
+    <td>
+      AZ_USER
+    </td>
+    <td>
+      Git user
+    </td>
+  </tr>
+  <tr>
+    <td>
+      AZ_URL
+    </td>
+    <td>
+      Defualt Git URL 
+    </td>
+  </tr>
+  <tr>
+    <td>
+      AZ_ORG
+    </td>
+    <td>
+      Git organitzation name
+    </td>
+  </tr>
+</table>
