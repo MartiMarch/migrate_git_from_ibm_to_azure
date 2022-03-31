@@ -41,7 +41,7 @@
       GL_URL
     </td>
     <td>
-      Prt of API url
+      Part of API url
     </td>
   </tr>
   <tr>
