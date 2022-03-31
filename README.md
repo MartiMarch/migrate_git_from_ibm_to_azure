@@ -16,7 +16,7 @@
 <p>You will need to fill the next values before execute the script:</p>
 <table>
   <tr>
-    <th>
+    <th nowrap="nowrap">
       IBM Gitlab variables
     </th>
   </tr>
