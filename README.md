@@ -13,6 +13,12 @@
 <h2>How to use</h2>
 <p align="justify">Execute the class main:</p>
 <p><strong>&ensp;&ensp;&ensp;&ensp;python3 main.py</strong></p>
-
-
+<p>You will need to fill the next values before execute the script:</p>
+<table>
+  <tr>
+    <td>
+      GL_USER
+    </td>
+  <tr>
+</table>
 
