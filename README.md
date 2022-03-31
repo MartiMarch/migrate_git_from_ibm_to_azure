@@ -3,7 +3,7 @@
 <p> - Git</p>
 <p> - Python 3</p>
 <h2>How it works</h2>
-<p align="justify">Controller class manage the interaction between both git repositories. <strong>IBMGitlab</strong> calls to IBM Gitlab API and <strong>AzureDevops</strong> calls to Azure Devops API. If you want to develop new features you will need to edit the two previous classes. <strong>main</strong> class invoke the controller and contains all the necessary data to realize the connection, as tokens, user, passwords, etc. If you need connect to another git, as GitHub, you only have to crete a new class named, for example, GitHub. This class will call to the API and controller will manage interaction with another git repositories.</p>
+<p align="justify">Controller class manage the interaction between both git repositories. <strong>IBMGitlab</strong> calls to IBM Gitlab API and <strong>AzureDevops</strong> calls to Azure Devops API. If you want to develop new features you will need to edit the two previous classes. <strong>main</strong> class invoke the controller and contains all the necessary data to realize the connection, as tokens, user, passwords, etc. If you need connect to another git, as GitHub, you only have to crete a new class named, for example, GitHub. This class will call to the API and controller class will manage interaction with another git repositories.</p>
 <h2>How to use</h2>
 <p align="justify">Execute the class main:</p>
 <p><strong>&ensp;&ensp;&ensp;&ensp;python3 main.py</strong></p>
