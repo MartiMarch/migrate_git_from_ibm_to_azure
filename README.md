@@ -17,6 +17,11 @@
 <table>
   <tr>
     <th>
+      IBM Gitlab variables
+    </th>
+  </tr>
+  <tr>
+    <th>
       GL_USER
     </th>
   </tr>
