@@ -145,6 +145,7 @@ class AzureDevops:
             self.MyShell(command)
         except Exception:
             pass
+        print("Done!")
         print("-> Pushing repo")
         url1 = "https://" + self.USER.replace('@', "%40") + ":" + self.TOKEN
         url2 = "@dev.azure.com/" + repoURL[len("https://") + len(self.USER.replace('@', "%40")):]
