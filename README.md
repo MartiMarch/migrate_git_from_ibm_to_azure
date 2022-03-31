@@ -14,13 +14,8 @@
 <p align="justify">Execute the class main:</p>
 <p><strong>&ensp;&ensp;&ensp;&ensp;python3 main.py</strong></p>
 <p>You will need to fill the next values before execute the script:</p>
-<h2>IBM Gitlab variables</h2>
+<h3>IBM Gitlab variables</h3>
 <table>
-  <tr>
-    <th>
-      IBM Gitlab variables
-    </th>
-  </tr>
   <tr>
     <td>
       GL_USER
